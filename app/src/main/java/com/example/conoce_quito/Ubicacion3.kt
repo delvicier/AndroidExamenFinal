@@ -5,16 +5,15 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 
-class MainActivity : AppCompatActivity() {
+class Ubicacion3 : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
-
+        setContentView(R.layout.activity_ubicacion3)
 
         val boton1 = findViewById<Button>(R.id.empezar)
 
         boton1.setOnClickListener {
-            startActivity(Intent(this, Menu::class.java))
+            startActivity(Intent(this, MainActivity::class.java))
         }
     }
 }
