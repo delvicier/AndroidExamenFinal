@@ -34,5 +34,11 @@ class Menu : AppCompatActivity() {
         boton3.setOnClickListener {
             startActivity(Intent(this, Ubicacion3::class.java))
         }
+
+        val boton4 = findViewById<ImageButton>(R.id.img4)
+
+        boton4.setOnClickListener {
+            startActivity(Intent(this, Ubicacion4::class.java))
+        }
     }
 }

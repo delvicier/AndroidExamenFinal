@@ -4,8 +4,13 @@
     <string name="boton2">Volver</string>
     <string name="parrafo">Es una obra maestra construida por el pintor y escultor indígena Ortega Maila después de una gran investigación de diseño y de arquitectura ancestral para mantener su arte y su cultura de los Andes. El recorrido dura aproximadamente 1 hora con su guía respectivo. La excursión incluye una sesión de aromaterapia y té de hoja de coca de cortesía del museo.</string>
     <string name="titulo11">El Museo del Templo del Sol</string>
+    <string name="parrafo44">El parque La Carolina es un espacio verde de carácter público en la ciudad de Quito, capital de la República del Ecuador. Está ubicado en la zona de Iñaquito, en el corazón financiero y empresarial de la urbe y es, a su vez, una de las áreas recreacionales más importantes del área metropolitana</string>
     <string name="parrafo33">El museo está construido sobre el primer tanque de agua y saneamiento del barrio El Placer. Este sitio muestra todas las formas de tratar el agua con purificación. Es un lugar muy interesante e interactivo especialmente para los niños, porque pueden divertirse y aprender jugando.</string>
     <string name="parrafo22">La Basílica del Voto Nacional, también llamada de la Consagración de Jesús o Basílica de San Juan, es un edificio religioso de estilo neogótico del centro histórico de la ciudad de Quito D.M... Por sus dimensiones y estilo está considerado como el templo neogótico más grande de América.</string>
+    <string name="titulo44">Parque La Carolina</string>
     <string name="titulo33">Basílica del Voto Nacional</string>
-    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_maps">Museo Yaku</string>
+    <string name="title_activity_maps2">Templo del Sol</string>
+    <string name="title_activity_maps3">Basilica del Voto</string>
+    <string name="title_activity_maps4">Parque La Carolina</string>
 </resources>

@@ -12,10 +12,22 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="YOUR_API_KEY" />
+            android:value="${MAPS_API_KEY}" />
 
         <activity
-            android:name=".MapsActivity"
+            android:name=".Carolina"
+            android:exported="false"
+            android:label="@string/title_activity_maps4" />
+        <activity
+            android:name=".Basilica"
+            android:exported="false"
+            android:label="@string/title_activity_maps3" />
+        <activity
+            android:name=".Templo"
+            android:exported="false"
+            android:label="@string/title_activity_maps2" />
+        <activity
+            android:name=".Museo"
             android:exported="false"
             android:label="@string/title_activity_maps" />
         <activity

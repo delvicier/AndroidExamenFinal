@@ -13,7 +13,13 @@ class Ubicacion1 : AppCompatActivity() {
         val boton1 = findViewById<Button>(R.id.empezar)
 
         boton1.setOnClickListener {
-            startActivity(Intent(this, MapsActivity::class.java))
+            startActivity(Intent(this, Menu::class.java))
+        }
+
+        val boton2 = findViewById<Button>(R.id.mapa)
+
+        boton2.setOnClickListener {
+            startActivity(Intent(this, Museo::class.java))
         }
     }
 }
